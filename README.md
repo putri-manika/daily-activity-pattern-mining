@@ -13,6 +13,8 @@ Dataset yang digunakan berasal dari **LifeSnaps Fitbit Dataset**, yang mencakup:
 - **Data Daily**: Aktivitas harian (langkah, kalori, detak jantung, waktu tidur, dll.)
 - **Data Scored Surveys**: Survei psikologis (TTM, BREQ, STAI, PANAS, dan Big Five Personality).
 
+Sumber Dataset: [https://www.kaggle.com/datasets/skywescar/lifesnaps-fitbit-dataset?resource=download]
+
 ## Metodologi
 
 ### 1. Exploratory Data Analysis (EDA)
